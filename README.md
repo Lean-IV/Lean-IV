@@ -26,7 +26,7 @@ En mi portfolio web podés encontrar más información sobre mis conocimientos, 
 
 ## Tecnologías principales
 
-Java · C · MySQL · Power BI · Tableau · Excel
+Java - C - MySQL - Power BI - Tableau - Excel
 
 ---
 
