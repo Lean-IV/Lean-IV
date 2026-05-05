@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Leandro Vera 👋</h1>
 
-<!--
-**Lean-IV/Lean-IV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudiante avanzado de Licenciatura en Sistemas, con interés en desarrollo backend,
+  bases de datos y análisis de datos.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Actualmente sigo desarrollando proyectos académicos y personales mientras busco
+  mi primera oportunidad profesional en el área IT.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mí
+
+Me interesa construir soluciones simples y funcionales, aplicando conocimientos de programación,
+bases de datos, análisis de información e ingeniería de software.
+
+En mi portfolio web podés encontrar más información sobre mis conocimientos, proyectos y medios de contacto.
+
+<p align="center">
+  <a href="https://lean-iv.github.io/">
+    <strong>🌐 Visitar mi portfolio</strong>
+  </a>
+</p>
+
+---
+
+## Tecnologías principales
+
+Java · C · MySQL · Power BI · Tableau · Excel
+
+---
+
+## Contacto
+
+- LinkedIn: https://www.linkedin.com/in/leandro-i-vera/
+- Email: lean.ivan.vera@gmail.com
